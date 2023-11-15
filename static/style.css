@@ -1,0 +1,12 @@
+p {
+    /* font is dark green */
+    color: #006400;
+    /* font is 20px */
+    font-size: 20px;
+}
+
+span {
+    /* font is orange */
+    color: #FFA500;
+    font-size: 40px;    
+}
